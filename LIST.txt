@@ -1,0 +1,42 @@
+[STANDARD]
+
+# discord
+plank
+polybar
+exa
+rofi
+
+
+
+
+[AUR]
+
+# ocs-url
+# pywal-git
+yay -S picom-ibhagwan-git
+
+
+[NORD]
+
+XFCE NORD THEME:
+    https://www.xfce-look.org/p/1267246/
+
+[POLYBAR]
+
+THEMES:
+    https://github.com/adi1090x/polybar-themes
+
+LAUNCH:
+    bash ~/.config/polybar/launch.sh --cuts ### for cuts theme
+
+[ICONS]
+
+https://www.gnome-look.org/p/1209330
+
+
+
+
+
+[COMMANDS]
+
+xfce4-screenshooter -r -c
